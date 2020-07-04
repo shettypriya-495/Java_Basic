@@ -10,6 +10,7 @@ public class Solution {
               
 
             System.out.println(a);
+            System.out.println("Int:"+a);
 
         }
        
